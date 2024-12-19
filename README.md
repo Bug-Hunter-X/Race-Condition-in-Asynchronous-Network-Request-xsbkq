@@ -1,0 +1,1 @@
+This repository demonstrates a common race condition bug in asynchronous network requests in Swift and provides a solution using a mechanism to ensure that only the most recent network request is processed.
